@@ -8,6 +8,11 @@ File Description:
 - plotdata_goes15_v2.php: Used to match various events in response to the selected event and to visualize all the events and the raw data.
 - index.html: To query and retrieve different MySQL database catalogs. 
 
+Data Sources:
+- goes15 data: "http://satdat.ngdc.noaa.gov"
+- RHESSI data: "http://hesperia.gsfc.nasa.gov"
+- HEK data   : "https://lmsal.com/hek/hek_isolsearch.html"
+
 Usage:
 This work can be accessed from "https://web.njit.edu/~ng294/Projects.html"
 - Open the above url
